@@ -1,0 +1,43 @@
+How to use Samarium 2.0:
+
+1. Open the Samarium Executable.
+
+2. If your Windows Defender detects it as a trojan, allow it on device. To learn more about why it detects it as a trojan, click the notice link at the bottom of the GUI.
+
+3. Put your desired length of the usernames you want to generate in the username length box.
+
+4. Click on the Start Generating button.
+
+5. Once you are done generating usernames, click the Stop Generating button.
+
+6. To view all of the usernames you generated, click the Open Valid button.
+
+----------
+
+Common Issues:
+
+Issue: Windows won't allow me to run the .exe.
+
+Solution: Open your Windows Defender/Anti-Virus Program and allow it on device.
+
+-
+
+Issue: My browser won't allow me to open the Zip.
+
+Solution: Search how to disable your download security and try to download it again.
+
+-
+
+Issue: It keeps giving me the error that it can't find valid.txt
+
+Solution: Make sure you have valid.txt in the same directory as Samarium. If you don't have the valid.txt file, make a new notepad file and name it valid.
+
+-
+
+Issue: I'm getting a random error
+
+Solution: Look up the solution to the error online. This code doesn't have any errors as of publishment.
+
+----------
+
+For any other issues, contact me on discord: aj is swag#0001
