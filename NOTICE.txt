@@ -1,3 +1,3 @@
 Notice:
 
-This file throws some random ass false positive and I have no clue how to make it not show. Pretty sure it wants to detect it as malicious because it was a python script converted to a executable. Enjoy using Samarium.
+This file might throw some random ass false positive and I have no clue how to make it not show. Pretty sure it wants to detect it as malicious because it was a python script converted to a executable. Enjoy using Samarium.
